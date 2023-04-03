@@ -3,7 +3,7 @@ import "./App.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import { ThemeProvider } from "@material-ui/core/styles";
-import theme from "./config/theme.config";
+import theme from "./config/theme-config";
 
 import SignIn from "./containers/SignIn.jsx"
 
